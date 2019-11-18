@@ -1,0 +1,6 @@
+C:\Users\Rakesh\Desktop\GetRakeshAI\WIndowsAutomationAPI\bin\Debug\WIndowsAutomationAPI.exe.config
+C:\Users\Rakesh\Desktop\GetRakeshAI\WIndowsAutomationAPI\bin\Debug\WIndowsAutomationAPI.exe
+C:\Users\Rakesh\Desktop\GetRakeshAI\WIndowsAutomationAPI\bin\Debug\WIndowsAutomationAPI.pdb
+C:\Users\Rakesh\Desktop\GetRakeshAI\WIndowsAutomationAPI\obj\Debug\WIndowsAutomationAPI.csprojAssemblyReference.cache
+C:\Users\Rakesh\Desktop\GetRakeshAI\WIndowsAutomationAPI\obj\Debug\WIndowsAutomationAPI.exe
+C:\Users\Rakesh\Desktop\GetRakeshAI\WIndowsAutomationAPI\obj\Debug\WIndowsAutomationAPI.pdb
