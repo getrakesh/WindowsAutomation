@@ -19,6 +19,7 @@ namespace WIndowsAutomationAPI
             scope: TreeScope.Children,
             eventHandler: OnWindowOpened);
 
+
             System.Windows.Automation.Automation.AddAutomationFocusChangedEventHandler(OnFocusChanged);
 
             Console.ReadLine();
