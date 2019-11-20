@@ -1,0 +1,9 @@
+C:\Users\Rakesh\Desktop\GetRakeshAI\WindowsFormApp\SampleFormApp1\bin\Debug\SampleFormApp1.exe.config
+C:\Users\Rakesh\Desktop\GetRakeshAI\WindowsFormApp\SampleFormApp1\bin\Debug\SampleFormApp1.exe
+C:\Users\Rakesh\Desktop\GetRakeshAI\WindowsFormApp\SampleFormApp1\bin\Debug\SampleFormApp1.pdb
+C:\Users\Rakesh\Desktop\GetRakeshAI\WindowsFormApp\SampleFormApp1\obj\Debug\SampleFormApp1.csprojAssemblyReference.cache
+C:\Users\Rakesh\Desktop\GetRakeshAI\WindowsFormApp\SampleFormApp1\obj\Debug\SampleFormApp1.Form1.resources
+C:\Users\Rakesh\Desktop\GetRakeshAI\WindowsFormApp\SampleFormApp1\obj\Debug\SampleFormApp1.Properties.Resources.resources
+C:\Users\Rakesh\Desktop\GetRakeshAI\WindowsFormApp\SampleFormApp1\obj\Debug\SampleFormApp1.csproj.GenerateResource.cache
+C:\Users\Rakesh\Desktop\GetRakeshAI\WindowsFormApp\SampleFormApp1\obj\Debug\SampleFormApp1.exe
+C:\Users\Rakesh\Desktop\GetRakeshAI\WindowsFormApp\SampleFormApp1\obj\Debug\SampleFormApp1.pdb

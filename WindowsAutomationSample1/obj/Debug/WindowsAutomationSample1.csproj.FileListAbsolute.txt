@@ -1,0 +1,6 @@
+C:\Users\Rakesh\Desktop\GetRakeshAI\WindowsAutomationSample1\bin\Debug\WindowsAutomationSample1.exe.config
+C:\Users\Rakesh\Desktop\GetRakeshAI\WindowsAutomationSample1\bin\Debug\WindowsAutomationSample1.exe
+C:\Users\Rakesh\Desktop\GetRakeshAI\WindowsAutomationSample1\bin\Debug\WindowsAutomationSample1.pdb
+C:\Users\Rakesh\Desktop\GetRakeshAI\WindowsAutomationSample1\obj\Debug\WindowsAutomationSample1.exe
+C:\Users\Rakesh\Desktop\GetRakeshAI\WindowsAutomationSample1\obj\Debug\WindowsAutomationSample1.pdb
+C:\Users\Rakesh\Desktop\GetRakeshAI\WindowsAutomationSample1\obj\Debug\WindowsAutomationSample1.csprojAssemblyReference.cache

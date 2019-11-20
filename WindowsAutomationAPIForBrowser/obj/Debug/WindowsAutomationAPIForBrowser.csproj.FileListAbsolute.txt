@@ -1,0 +1,6 @@
+C:\Users\Rakesh\Desktop\GetRakeshAI\WindowsAutomationAPIForBrowser\bin\Debug\WindowsAutomationAPIForBrowser.exe.config
+C:\Users\Rakesh\Desktop\GetRakeshAI\WindowsAutomationAPIForBrowser\bin\Debug\WindowsAutomationAPIForBrowser.exe
+C:\Users\Rakesh\Desktop\GetRakeshAI\WindowsAutomationAPIForBrowser\bin\Debug\WindowsAutomationAPIForBrowser.pdb
+C:\Users\Rakesh\Desktop\GetRakeshAI\WindowsAutomationAPIForBrowser\obj\Debug\WindowsAutomationAPIForBrowser.csprojAssemblyReference.cache
+C:\Users\Rakesh\Desktop\GetRakeshAI\WindowsAutomationAPIForBrowser\obj\Debug\WindowsAutomationAPIForBrowser.exe
+C:\Users\Rakesh\Desktop\GetRakeshAI\WindowsAutomationAPIForBrowser\obj\Debug\WindowsAutomationAPIForBrowser.pdb

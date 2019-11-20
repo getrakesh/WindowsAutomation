@@ -1,1 +1,38 @@
-	
+Adding UI Automation library into the project
+Right-click on References node and select Add Reference popup menu item
+In the references dialog we should switch to .NET tab and select the following items:
+UIAutomationClient
+UIAutomationTypes
+
+TreeWalker and FindAll function
+MS UI Automation has two ways of navigating through collections of elements and hierarchies. One is by using FindAll function and can be used to obtain the entire collection or a subset of
+children/descendants of an Automation Element and the second way is by using TreeWalker. Both ways support search filtering by element properties. 
+TW offers a lot more search features and navigation features like moving to first child, moving to last child, moving to next sibling of a specified element and moving to Parent.
+
+What is the connection between TreeWalker and FindAll function? FindAll is the same with using the predefined tree walker TW.ControlViewWalker and moving from the 
+first child to the last child. So, FindAll function returns only control elements.
+
+There are 2 other predefined tree walkers: RawViewWalker and ContentViewWalker. RawViewWalker gets all the elements and ContentViewWalker gets elements marked as content elements.
+
+If you are using a similarity between TW.RawViewWalker or TW.ContentViewWalker and FindAll function you may find some incompatibilities meaning that you may find some Automation 
+elements in one collection that don't have correspondents in the other collection. I think FindAll function can be used safely with TW.ControlViewWalker as 1-1.
+
+Why to use FindAll and why to use TreeWalker or why not always to use TreeWalker? Microsoft says FindAll function works faster than TreeWalker for some kinds of applications,
+like WPF applications, and TreeWalker works faster for Win32 controls. Could be, but the difference of speed may not be so big as you expect. FindAll function has also the 
+advantage of making things easy when you want to search through the entire collection of descendants. TreeWalker can also be used to search through the collection of 
+descendants (recursively), but with more code and less efficiency.
+
+Working with UI Automation may be challenging when using large collections of children or descendants and especially when using filtering criteria because these kinds of actions
+can be very time-consuming. So, understanding how to work with collections and navigating through hierarchies of elements is a big step in starting development with Microsoft UI Automation.
+
+Form Based APP
+ -c.Current.FrameworkId -is WinForm
+
+Label- control type is Text
+TextBox- control type is Edit
+RichTextBox -control type is Document
+
+Condition conditions = new AndCondition(new PropertyCondition(AutomationElement.IsControlElementProperty, true),
+            new PropertyCondition(AutomationElement.ControlTypeProperty, ControlType.Edit));
+
+AutomationElementCollection collection = parent.FindAll(TreeScope.Subtree, conditions);
